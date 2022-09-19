@@ -22,4 +22,4 @@ The [Quick Start video](https://youtu.be/hYJ57K_lLjA) demonstrates the basic fun
 
 Space Control was created by the team of Professor João Pedro Oliveira, acting as project manager, and software developer Raphael Radna. It is a joint project of the UC Santa Barbara Department of Music and the Center for Research in Electronic Art Technology (CREATE), and was supported by a Faculty Research Grant from the UC Santa Barbara Academic Senate.
 
-Space Control runs on Apple computers, and is available as a free download from the "Releases" section on the right-hand side of this page.
+Space Control runs on Mac and Windows computers, and is available as a free download from the "Releases" section on the right-hand side of this page.
